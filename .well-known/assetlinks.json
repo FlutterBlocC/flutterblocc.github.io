@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "vn.ex.baseblocflutter.dev",
+      "sha256_cert_fingerprints": [
+        "36:0D:3F:B2:53:B3:32:95:AD:70:22:82:F3:2D:E4:35:56:40:EA:6F:E8:B0:38:12:C4:21:5E:44:16:A3:68:89"
+      ]
+    }
+  }
+]
